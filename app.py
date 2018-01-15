@@ -13,7 +13,7 @@ chrome_options = Options()
 chrome_options.binary_location = r"/app/.apt/usr/bin/google-chrome"
 # chrome_options.add_argument("--headless")
 
-print("------------------------------------------------------\nDOMINIUMPRO.com BOT || VERSION 1.0 \n------------------------------------------------------\nBY - AHMAD TAHA || CONTACT - ahmadtahaco@gmail.com\n======================================================\n")
+print("------------------------------------------------------\nDOMINIUMPRO.com BOT || VERSION 1.0 \n------------------------------------------------------\nBY - AR || CONTACT - amanraizada6@gmail.com\n======================================================\n")
 print ("\n>> Opening Browser")
 
 driver = webdriver.Chrome(chrome_options=chrome_options)
